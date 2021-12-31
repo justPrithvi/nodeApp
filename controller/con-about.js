@@ -1,3 +1,3 @@
 exports.about=(req,res)=>{
-    res.send("hello from about controller")
+    res.send("hello from about controllers")
 }
